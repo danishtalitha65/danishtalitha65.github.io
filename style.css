@@ -1,0 +1,36 @@
+table, th, td {border :cornsilk; border-collapse: collapse;
+    border: 3px double black;
+    background-color: yellowgreen;}
+
+body {background-image:url(Background\ Kimia.jpg);}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: hotpink;
+    }
+li {float: left;}
+li a {display: block;
+    color: white;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;}
+li a:hover {background-color: white;}
+h1 {color: black;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;}
+p  {margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    color: white;
+    background-color: hotpink;
+    text-align: justify;}
+img {display :block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 50%;}
+table {margin-left: auto;
+    margin-right: auto;
+    width: 80%;}
